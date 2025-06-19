@@ -1,1 +1,6 @@
-
+-> Harden your Ubuntu installation with a Ubuntu Pro distro by registering on the Ubuntu Canonical Domain.
+-> Free Ubuntu Pro registration is available for developers.
+-> Harden your Ubuntu OS drivers and updates 
+-> Only install packages from official chans
+-> IMPORTANT! Change the startup icons app-grid-ubiquity, app-grid-ubuntu in the theme extensions from three dots to 9 dots grid
+-> Ubuntu shell being more restrictive than other distros, BurpSuite scripts will prevent reverse shell attacks as well :)
